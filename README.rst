@@ -17,7 +17,7 @@ Contributors
 
 The following users have contributed: 
 
- * `Iago Suárez <https://github.com/iago-suarez>`__ 
+ * `Iago Suarez <https://github.com/iago-suarez>`__ 
  * `Andrew Brookins <https://github.com/abrookins>`__ 
  * `Callan Bryant <https://github.com/naggie>`__ 
  * `Mathieu Comandon <https://github.com/strycore>`__ 
